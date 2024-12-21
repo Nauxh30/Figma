@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date: 21-12-2024
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -526,6 +526,8 @@ html code
 
 ## OUTPUT:
 ![alt text](<Screenshot (190).png>)
+![Screenshot 2024-12-21 204957](https://github.com/user-attachments/assets/8646add1-61ac-4993-8404-d9be0deb9129)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
